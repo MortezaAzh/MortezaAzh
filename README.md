@@ -23,7 +23,7 @@ I build geospatial solutions and data dashboards for large organizations.
 |---|---|---|
 | [AVL Simulator](https://github.com/MortezaAzh/avl-simulator) | Vehicle tracking data generator for WebGIS testing | Leaflet.js · JavaScript · OSRM |
 | [Tehran Sales Dashboard](https://github.com/MortezaAzh/tehran-sales-dashboard) | Interactive GIS sales analytics dashboard | Leaflet.js · Chart.js · Python |
-| [BillionPolGenerator](https://github.com/ MortezaAzh/BillionPolGenerator) | Spatial polygon generator for load testing | Python · GeoPandas · Flask |
+| [BillionPolGenerator](https://github.com/MortezaAzh/BillionPolGenerator) | Spatial polygon generator for load testing | Python · GeoPandas · Flask |
 
 ---
 
