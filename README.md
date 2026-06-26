@@ -7,7 +7,7 @@
 ## 🗺 What I Do
 
 I build geospatial solutions and data dashboards for large organizations.
-8+ years of experience turning complex spatial data into clear, actionable insights.
+7+ years of experience turning complex spatial data into clear, actionable insights.
 
 **Core skills:**
 - Spatial dashboard development (SQL · HTML · CSS · JavaScript)
