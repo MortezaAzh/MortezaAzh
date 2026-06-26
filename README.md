@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**MortezaAzh/MortezaAzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GIS Developer & Dashboard Specialist** based in Tehran, Iran
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗺 What I Do
+
+I build geospatial solutions and data dashboards for large organizations.
+8+ years of experience turning complex spatial data into clear, actionable insights.
+
+**Core skills:**
+- Spatial dashboard development (SQL · HTML · CSS · JavaScript)
+- Geospatial data processing (Python · GeoPandas · Shapely)
+- WebGIS platforms · Leaflet.js · PostGIS
+- Enterprise GIS systems · SQL Server · PostgreSQL
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [AVL Simulator](https://github.com/MortezaAzh/avl-simulator) | Vehicle tracking data generator for WebGIS testing | Leaflet.js · JavaScript · OSRM |
+| [Tehran Sales Dashboard](https://github.com/MortezaAzh/tehran-sales-dashboard) | Interactive GIS sales analytics dashboard | Leaflet.js · Chart.js · Python |
+| [BillionPolGenerator](https://github.com/ MortezaAzh/BillionPolGenerator) | Spatial polygon generator for load testing | Python · GeoPandas · Flask |
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [linkedin.com/in/azhmorteza](https://linkedin.com/in/azhmorteza)
+- Email: azh.morteza@gmail.com
+
+---
+
+*Open to remote opportunities in GIS development and geospatial data engineering*
